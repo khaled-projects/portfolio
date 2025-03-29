@@ -1,7 +1,7 @@
 # Khaled Neji - Cloud DevOps Engineer
 
 ## 🚀 About Me
-Experienced Cloud DevOps Engineer with a strong ability to orchestrate AWS infrastructure and Kubernetes clusters. I specialize in designing, automating, and managing cloud environments with a hands-on, practical approach. I have extensive experience in creating CI/CD pipelines, ensuring high availability, security, and scalability for applications. My expertise makes me a great fit for freelance opportunities, helping businesses optimize their cloud solutions effectively.
+I am a Cloud DevOps Engineer with expertise in orchestrating highly resilient AWS infrastructure and Kubernetes clusters. My skill set includes designing and automating cloud environments using Infrastructure as Code (IaC) with Terraform and AWS CloudFormation. I specialize in building CI/CD pipelines, improving system scalability, and implementing security best practices to optimize cloud solutions.
 
 ## 🏆 Certifications
 - **AWS Certified Solutions Architect – Associate (2023)**
@@ -17,7 +17,7 @@ Experienced Cloud DevOps Engineer with a strong ability to orchestrate AWS infra
 - **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, VPC, CloudFormation, Route 53, IAM)
 - **Containerization & Orchestration:** Docker, Kubernetes, Helm, ArgoCD
 - **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation
-- **CI/CD & Automation:** GitHub Actions, Jenkins, AWS CodePipeline
+- **CI/CD & Automation:** GitHub Actions, Jenkins, ArgoCD, AWS CodeBuild
 - **Security & Compliance:** AWS Security, IAM Policies, Application Security
 - **Networking & Monitoring:** AWS CloudWatch, ELK Stack, Prometheus, Grafana
 - **Scripting & Development:** Python, Bash, YAML, JSON
